@@ -47,6 +47,7 @@ export const PROJECTS = [
     description:
       "An innovative application developed utilizing Natural Language Processing (NLP) and Machine Learning to generate concise summaries of news articles. Features a user-friendly interface that allows users to input article URLs and receive instant, AI-generated summaries.Streamlines information consumption, enabling users to stay informed quickly and efficiently.",
     technologies: ["Python", "Tkinter", "NLP", "TensorFlow"],
+    github:"https://github.com/Sanya2911/News_Article_Summarization",
   },
   {
     title: "ZenFit-Fitness App",
